@@ -1,0 +1,20 @@
+.card-container-2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.parag {
+  color: #000000;
+  font-family: 'Roboto';
+}
+
+.dlt {
+  color: #ff0b37;
+  border-color: #ff0b37;
+  border-width: 2px;
+  border-style: solid;
+  padding: 6px;
+  border-radius: 3px;
+  margin-left: 10px;
+}
